@@ -9,13 +9,14 @@ v6.8
 #Improve Stream Item Layout
 #Improve Firefox support for Volume Bar
 #Updated Dependencies
+
 v6.7
 
-$Fix Instance readditions
+#Fix Instance readditions
 #Fix Safari Codec Override
 #Fix MediaSession Duration
 #Fix load more search results
-Added Listen Later in Library
+#Added Listen Later in Library
 #Added Store History toggle in settings
 #Added Store Discoveries toggle in settings
 #Added tab on Startup selector in settings
@@ -27,12 +28,14 @@ Added Listen Later in Library
 #Improve : Streams / Channels / Playlists are now clickable as links.
 #Improve : Reliability of Channel Avatars which are now proxied over the selected thumbnail instance
 #Improve : First time visitors can now access all astrafy links without initial load
+
 v6.6
 
 #Implemented Snackbar / Toast Notifications
 #Fixes related to api lists handling
 #Square Thumbnails for music streams in search & player
 #updated packages
+
 v6.5
 
 #Prompt Updates (with changelog)
@@ -40,53 +43,66 @@ v6.5
 #Settings Categorization
 #Invidious Playback Support
 #Captions Removal
+
 v6.4
 
 #Import & Export Library Data
 #Various Optimizations
+
 v6.3
 
 #Library (Discover, History, Favorites, Playlists)
 #Channel Support
-v6.2
 
+v6.2
 #Search sorting by Time Uploaded
+
 v6.1
 
 #Download Functionality
+
 v6.0
 
 #[Full Changelog](https://github.com/hanshat/astrafy/discussions/125)
+
 v5.16
 
 #Shuffle Queue
 #Remove From Queue Button
+
 v5.15
 
 #Volume Controls
+
 v5.14
 
 #Tabbed Navigation
 #Safari Playback Support
+
 v5.13
 
 #Autoplay
 #QueueListUI
+
 v5.12
 
 #search suggestions
+
 v5.11
 
 #search filters
 #subtitle selector
 #settingsMenu instead of list
+
 v5.10
 
 #Search
+
 v5.9
 
 #Subtitles
 #Related Streams
+
 v5.8
 
 #Settings inside Player container
@@ -95,34 +111,42 @@ v5.8
 #incorporated luuvdk's colorjs' image data processing algorithm directly into themer()
 #replaced local storage with html data attributes for data binding
 #new found optimizations and fixes which were previously unseen
+
 v5.7
 
 #Share youtube link into ytify PWA
 #m4a fallback when opus unavailable
 feedback button
 #substantial performance gains
+
 v5.6
 
 #Seek Backward && Forward buttons
+
 v5.5
 
 #icons with labels below
 #bitrate select menu
+
 v5.4
 
 #Using Remix Iconset for quicker site load
 #Removed Color.js dependency which was slowing down site with blazing fast 6 line code
+
 v5.3
 
 #query enhancement : playlist query && time query
 #piped fetch error reporting
 #dont depend on a single piped instance
+
 v5.2
 
 #replace personal backend with piped api
+
 v5.1
 
 #current and full duration info
+
 v5
 
 #Newer and simpler UI
@@ -132,6 +156,7 @@ v5
 #personal backend api
 #200+ lines of code removed
 #code maintainence made easier
+
 v4
 
 #remove spectre css dependency
@@ -139,6 +164,7 @@ v4
 #color accents extraction from thumbnail for theming
 #separate gradient themes
 #functional ui design
+
 v3
 
 #current track title
@@ -148,6 +174,7 @@ v3
 #standardiztion
 #optimization
 #code reduction
+
 v2
 
 #removed howler.js depenency
@@ -156,6 +183,7 @@ v2
 #dark mode
 #128kbps hq button
 #pwa support
+
 v1
 
 #input field to take url
